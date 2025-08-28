@@ -1,0 +1,99 @@
+amd64^Windows 11^10.0^^23.0.2+7-58^UTF-8
+Earlier FVU Version 8.1
+*******************************************
+Current FVU Version 8.2
+STARTING FORMAT VALIDATION
+The part added gets called returns true for value Gen e-TDS ver 2.25.7
+BATCH VALIDATION STARTED
+countOfBatch1
+isFinYrGrtrthn:- true
+ PersonResponsilblePAN :: CGYPS5230G
+PersonResponsilblePAN.trim().length() ::10
+................ 3
+................ 3
+Validating Challan 1
+Validating Challan For Batch Number2
+Value of forCSIfile  :: true
+ cinmandatory
+No of challan from csi file :: 3
+The FVU Higher Version is 9.2
+The FVU lower Version is 2.188
+TanNameFromTxtFile ::  THE COLORIST   TanNameFromCSIFile :: THE COLORIST
+TanFromTxtFile ::  PTLT13504B   TanFromCSIFile  :: PTLT13504B
+ STARTING DEDUTEE VALIDATION FOR CHALLAN 1
+RateAtWhichTaxDeducted10.0000
+Validating Challan 2
+Validating Challan For Batch Number2
+Value of forCSIfile  :: true
+ cinmandatory
+No of challan from csi file :: 3
+The FVU Higher Version is 9.2
+The FVU lower Version is 2.188
+TanNameFromTxtFile ::  THE COLORIST   TanNameFromCSIFile :: THE COLORIST
+TanFromTxtFile ::  PTLT13504B   TanFromCSIFile  :: PTLT13504B
+ STARTING DEDUTEE VALIDATION FOR CHALLAN 2
+RateAtWhichTaxDeducted10.0000
+Validating Challan 3
+Validating Challan For Batch Number2
+Value of forCSIfile  :: true
+ cinmandatory
+No of challan from csi file :: 3
+The FVU Higher Version is 9.2
+The FVU lower Version is 2.188
+TanNameFromTxtFile ::  THE COLORIST   TanNameFromCSIFile :: THE COLORIST
+TanFromTxtFile ::  PTLT13504B   TanFromCSIFile  :: PTLT13504B
+ STARTING DEDUTEE VALIDATION FOR CHALLAN 3
+RateAtWhichTaxDeducted10.0000
+ END OF :::BIFERCATING CHALAN AND TV AND CIN CHECKINGThu Aug 28 13:51:19 IST 2025
+END OF FORMAT VALIDATION
+Field validation is successfull now starting hash validation
+BEFORE HASHING CALLED::::::Thu Aug 28 13:51:19 IST 2025
+250828135120
+START # 28-08-2025 13:51:20.182
+ Original file object created and file exist
+tempFileName String cretaed ::  C:/ITR_Utility/ITR.Utility.Processor/ITRUtil/Output/26Q_temp.fvu
+ brtTemp object created for temp file
+String line created 
+isAppendForNextLine (Inside if condition ) :: 1
+ After appending line 1^8^FVU 9.2^00000000000000000000^SAM 1.0^00000000000000000000^25082813512014173073
+f.close()
+f = null
+brTemp.flush()
+brTemp.close()
+brTemp = null;
+END # 28-08-2025 13:51:20.186
+Original file is deleted
+Temp file renamed
+In processCINFile method
+the challan count is 3
+the cinFileLevelHC no. is00000000000000362345
+AFTER HASHING CALLED::::Thu Aug 28 13:51:20 IST 2025
+Return Hash Code = 0
+searchbarcode called
+Barcodeval :25082813512014173073
+Barcode is present
+Hash Validation is sucessfull now started generating file
+Inside generateStatisticFile Method 
+FileGenerator.java ParseString() method is called 
+FileGenerator.java ParseString() method is returning 
+FileGenerator.java createStatisticFileString() method is called
+ Entering writeStatisticFile() Method Thu Aug 28 13:51:20 IST 2025
+ Exiting writeStatisticFile() Method Thu Aug 28 13:51:20 IST 2025
+FileGenerator.java createStatisticFileString() method is returning
+Statistics file is created
+ length : 72
+ length : 72
+ BARCODE :- 25082813512014173073
+Inside generateForm27A
+ Entering writePdfFile() Method Thu Aug 28 13:51:20 IST 2025
+ Exiting writePdfFile() Method Thu Aug 28 13:51:20 IST 2025
+pdf generatedtrue
+END TIME : Thu Aug 28 13:51:20 IST 2025
+Eobj_FormValidator.obj_StringBuffer.getPanCounter()0
+reportGeneratedfalse
+paperRetWarFile : false
+calling method
+--DESKTOP OBJECT: java.awt.Desktop@682a0925
+--error file path: C:\ITR_Utility\ITR.Utility.Processor\ITRUtil\Output
+--dir to open object: C:\ITR_Utility\ITR.Utility.Processor\ITRUtil\Output
+the text error file path is C:\ITR_Utility\ITR.Utility.Processor\ITRUtil\Output

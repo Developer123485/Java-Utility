@@ -1,0 +1,90 @@
+C:\Work\POCS\ITR Utility\ITR.Utility.Processor\bin\Debug\net8.0\ITR.Utility.Processor.exe
+C:\Work\POCS\ITR Utility\ITR.Utility.Processor\bin\Debug\net8.0\ITR.Utility.Processor.deps.json
+C:\Work\POCS\ITR Utility\ITR.Utility.Processor\bin\Debug\net8.0\ITR.Utility.Processor.runtimeconfig.json
+C:\Work\POCS\ITR Utility\ITR.Utility.Processor\bin\Debug\net8.0\ITR.Utility.Processor.dll
+C:\Work\POCS\ITR Utility\ITR.Utility.Processor\bin\Debug\net8.0\ITR.Utility.Processor.pdb
+C:\Work\POCS\ITR Utility\ITR.Utility.Processor\bin\Debug\net8.0\WindowsInput.dll
+C:\Work\POCS\ITR Utility\ITR.Utility.Processor\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Work\POCS\ITR Utility\ITR.Utility.Processor\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Work\POCS\ITR Utility\ITR.Utility.Processor\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Work\POCS\ITR Utility\ITR.Utility.Processor\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Work\POCS\ITR Utility\ITR.Utility.Processor\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Work\POCS\ITR Utility\ITR.Utility.Processor\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Work\POCS\ITR Utility\ITR.Utility.Processor\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Work\POCS\ITR Utility\ITR.Utility.Processor\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Work\POCS\ITR Utility\ITR.Utility.Processor\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Work\POCS\ITR Utility\ITR.Utility.Processor\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Work\POCS\ITR Utility\ITR.Utility.Processor\bin\Debug\net8.0\System.Text.Json.dll
+C:\Work\POCS\ITR Utility\ITR.Utility.Processor\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Work\POCS\ITR Utility\ITR.Utility.Processor\obj\Debug\net8.0\ITR.Utility.Processor.csproj.AssemblyReference.cache
+C:\Work\POCS\ITR Utility\ITR.Utility.Processor\obj\Debug\net8.0\ITR.Utility.Processor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\POCS\ITR Utility\ITR.Utility.Processor\obj\Debug\net8.0\ITR.Utility.Processor.AssemblyInfoInputs.cache
+C:\Work\POCS\ITR Utility\ITR.Utility.Processor\obj\Debug\net8.0\ITR.Utility.Processor.AssemblyInfo.cs
+C:\Work\POCS\ITR Utility\ITR.Utility.Processor\obj\Debug\net8.0\ITR.Utility.Processor.csproj.CoreCompileInputs.cache
+C:\Work\POCS\ITR Utility\ITR.Utility.Processor\obj\Debug\net8.0\ITR.Utility.Processor.csproj.CopyComplete
+C:\Work\POCS\ITR Utility\ITR.Utility.Processor\obj\Debug\net8.0\ITR.Utility.Processor.dll
+C:\Work\POCS\ITR Utility\ITR.Utility.Processor\obj\Debug\net8.0\refint\ITR.Utility.Processor.dll
+C:\Work\POCS\ITR Utility\ITR.Utility.Processor\obj\Debug\net8.0\ITR.Utility.Processor.pdb
+C:\Work\POCS\ITR Utility\ITR.Utility.Processor\obj\Debug\net8.0\ITR.Utility.Processor.genruntimeconfig.cache
+C:\Work\POCS\ITR Utility\ITR.Utility.Processor\obj\Debug\net8.0\ref\ITR.Utility.Processor.dll
+C:\Work\POCS\ITR Utility\ITR.Utility.Processor\bin\Debug\net8.0\appsettings.json
+C:\Users\nkgup\Downloads\ITR Utility-20250827T082035Z-1-001\ITR Utility\ITR.Utility.Processor\bin\Debug\net8.0\appsettings.json
+C:\Users\nkgup\Downloads\ITR Utility-20250827T082035Z-1-001\ITR Utility\ITR.Utility.Processor\bin\Debug\net8.0\ITR.Utility.Processor.exe
+C:\Users\nkgup\Downloads\ITR Utility-20250827T082035Z-1-001\ITR Utility\ITR.Utility.Processor\bin\Debug\net8.0\ITR.Utility.Processor.deps.json
+C:\Users\nkgup\Downloads\ITR Utility-20250827T082035Z-1-001\ITR Utility\ITR.Utility.Processor\bin\Debug\net8.0\ITR.Utility.Processor.runtimeconfig.json
+C:\Users\nkgup\Downloads\ITR Utility-20250827T082035Z-1-001\ITR Utility\ITR.Utility.Processor\bin\Debug\net8.0\ITR.Utility.Processor.dll
+C:\Users\nkgup\Downloads\ITR Utility-20250827T082035Z-1-001\ITR Utility\ITR.Utility.Processor\bin\Debug\net8.0\ITR.Utility.Processor.pdb
+C:\Users\nkgup\Downloads\ITR Utility-20250827T082035Z-1-001\ITR Utility\ITR.Utility.Processor\bin\Debug\net8.0\WindowsInput.dll
+C:\Users\nkgup\Downloads\ITR Utility-20250827T082035Z-1-001\ITR Utility\ITR.Utility.Processor\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Users\nkgup\Downloads\ITR Utility-20250827T082035Z-1-001\ITR Utility\ITR.Utility.Processor\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\nkgup\Downloads\ITR Utility-20250827T082035Z-1-001\ITR Utility\ITR.Utility.Processor\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\nkgup\Downloads\ITR Utility-20250827T082035Z-1-001\ITR Utility\ITR.Utility.Processor\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\nkgup\Downloads\ITR Utility-20250827T082035Z-1-001\ITR Utility\ITR.Utility.Processor\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\nkgup\Downloads\ITR Utility-20250827T082035Z-1-001\ITR Utility\ITR.Utility.Processor\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\nkgup\Downloads\ITR Utility-20250827T082035Z-1-001\ITR Utility\ITR.Utility.Processor\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\nkgup\Downloads\ITR Utility-20250827T082035Z-1-001\ITR Utility\ITR.Utility.Processor\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\nkgup\Downloads\ITR Utility-20250827T082035Z-1-001\ITR Utility\ITR.Utility.Processor\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\nkgup\Downloads\ITR Utility-20250827T082035Z-1-001\ITR Utility\ITR.Utility.Processor\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\nkgup\Downloads\ITR Utility-20250827T082035Z-1-001\ITR Utility\ITR.Utility.Processor\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\nkgup\Downloads\ITR Utility-20250827T082035Z-1-001\ITR Utility\ITR.Utility.Processor\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\nkgup\Downloads\ITR Utility-20250827T082035Z-1-001\ITR Utility\ITR.Utility.Processor\obj\Debug\net8.0\ITR.Utility.Processor.csproj.AssemblyReference.cache
+C:\Users\nkgup\Downloads\ITR Utility-20250827T082035Z-1-001\ITR Utility\ITR.Utility.Processor\obj\Debug\net8.0\ITR.Utility.Processor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nkgup\Downloads\ITR Utility-20250827T082035Z-1-001\ITR Utility\ITR.Utility.Processor\obj\Debug\net8.0\ITR.Utility.Processor.AssemblyInfoInputs.cache
+C:\Users\nkgup\Downloads\ITR Utility-20250827T082035Z-1-001\ITR Utility\ITR.Utility.Processor\obj\Debug\net8.0\ITR.Utility.Processor.AssemblyInfo.cs
+C:\Users\nkgup\Downloads\ITR Utility-20250827T082035Z-1-001\ITR Utility\ITR.Utility.Processor\obj\Debug\net8.0\ITR.Utility.Processor.csproj.CoreCompileInputs.cache
+C:\Users\nkgup\Downloads\ITR Utility-20250827T082035Z-1-001\ITR Utility\ITR.Utility.Processor\obj\Debug\net8.0\ITR.Util.35988959.Up2Date
+C:\Users\nkgup\Downloads\ITR Utility-20250827T082035Z-1-001\ITR Utility\ITR.Utility.Processor\obj\Debug\net8.0\ITR.Utility.Processor.dll
+C:\Users\nkgup\Downloads\ITR Utility-20250827T082035Z-1-001\ITR Utility\ITR.Utility.Processor\obj\Debug\net8.0\refint\ITR.Utility.Processor.dll
+C:\Users\nkgup\Downloads\ITR Utility-20250827T082035Z-1-001\ITR Utility\ITR.Utility.Processor\obj\Debug\net8.0\ITR.Utility.Processor.pdb
+C:\Users\nkgup\Downloads\ITR Utility-20250827T082035Z-1-001\ITR Utility\ITR.Utility.Processor\obj\Debug\net8.0\ITR.Utility.Processor.genruntimeconfig.cache
+C:\Users\nkgup\Downloads\ITR Utility-20250827T082035Z-1-001\ITR Utility\ITR.Utility.Processor\obj\Debug\net8.0\ref\ITR.Utility.Processor.dll
+C:\ITR_Utility\ITR.Utility.Processor\bin\Debug\net8.0\appsettings.json
+C:\ITR_Utility\ITR.Utility.Processor\bin\Debug\net8.0\ITR.Utility.Processor.exe
+C:\ITR_Utility\ITR.Utility.Processor\bin\Debug\net8.0\ITR.Utility.Processor.deps.json
+C:\ITR_Utility\ITR.Utility.Processor\bin\Debug\net8.0\ITR.Utility.Processor.runtimeconfig.json
+C:\ITR_Utility\ITR.Utility.Processor\bin\Debug\net8.0\ITR.Utility.Processor.dll
+C:\ITR_Utility\ITR.Utility.Processor\bin\Debug\net8.0\ITR.Utility.Processor.pdb
+C:\ITR_Utility\ITR.Utility.Processor\bin\Debug\net8.0\WindowsInput.dll
+C:\ITR_Utility\ITR.Utility.Processor\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\ITR_Utility\ITR.Utility.Processor\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\ITR_Utility\ITR.Utility.Processor\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\ITR_Utility\ITR.Utility.Processor\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+C:\ITR_Utility\ITR.Utility.Processor\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\ITR_Utility\ITR.Utility.Processor\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\ITR_Utility\ITR.Utility.Processor\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\ITR_Utility\ITR.Utility.Processor\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\ITR_Utility\ITR.Utility.Processor\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\ITR_Utility\ITR.Utility.Processor\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\ITR_Utility\ITR.Utility.Processor\bin\Debug\net8.0\System.Text.Json.dll
+C:\ITR_Utility\ITR.Utility.Processor\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\ITR_Utility\ITR.Utility.Processor\obj\Debug\net8.0\ITR.Utility.Processor.csproj.AssemblyReference.cache
+C:\ITR_Utility\ITR.Utility.Processor\obj\Debug\net8.0\ITR.Utility.Processor.GeneratedMSBuildEditorConfig.editorconfig
+C:\ITR_Utility\ITR.Utility.Processor\obj\Debug\net8.0\ITR.Utility.Processor.AssemblyInfoInputs.cache
+C:\ITR_Utility\ITR.Utility.Processor\obj\Debug\net8.0\ITR.Utility.Processor.AssemblyInfo.cs
+C:\ITR_Utility\ITR.Utility.Processor\obj\Debug\net8.0\ITR.Utility.Processor.csproj.CoreCompileInputs.cache
+C:\ITR_Utility\ITR.Utility.Processor\obj\Debug\net8.0\ITR.Util.35988959.Up2Date
+C:\ITR_Utility\ITR.Utility.Processor\obj\Debug\net8.0\ITR.Utility.Processor.dll
+C:\ITR_Utility\ITR.Utility.Processor\obj\Debug\net8.0\refint\ITR.Utility.Processor.dll
+C:\ITR_Utility\ITR.Utility.Processor\obj\Debug\net8.0\ITR.Utility.Processor.pdb
+C:\ITR_Utility\ITR.Utility.Processor\obj\Debug\net8.0\ITR.Utility.Processor.genruntimeconfig.cache
+C:\ITR_Utility\ITR.Utility.Processor\obj\Debug\net8.0\ref\ITR.Utility.Processor.dll
