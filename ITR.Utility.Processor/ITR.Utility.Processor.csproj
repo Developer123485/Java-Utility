@@ -20,4 +20,9 @@
     </None>
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="ITRUtil\Input\" />
+    <Folder Include="ITRUtil\Processing\" />
+  </ItemGroup>
+
 </Project>

@@ -19,7 +19,7 @@ public class Worker
         _utilityDir = config["JavaSettings:UtilityDir"] ?? "";
     }
 
-    int guiWaitTime = 3000;
+    int guiWaitTime = 5000;
     int keyWaitTime = 500;
 
     public async Task RunJavaUtility(string filePath, string csiFilePath, string outputPath)
@@ -32,7 +32,8 @@ public class Worker
             process.StartInfo.FileName = "java";
             process.StartInfo.Arguments = $"-jar \"{_jarPath}\"";
             process.StartInfo.WorkingDirectory = _utilityDir;
-            process.StartInfo.UseShellExecute = false;
+            process.StartInfo.WindowStyle = ProcessWindowStyle.Hidden;
+            process.StartInfo.CreateNoWindow = false;
             process.Start();
 
             await Task.Delay(guiWaitTime); // Wait for GUI to load        

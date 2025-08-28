@@ -44,56 +44,56 @@ TanNameFromTxtFile ::  THE COLORIST   TanNameFromCSIFile :: THE COLORIST
 TanFromTxtFile ::  PTLT13504B   TanFromCSIFile  :: PTLT13504B
  STARTING DEDUTEE VALIDATION FOR CHALLAN 3
 RateAtWhichTaxDeducted10.0000
- END OF :::BIFERCATING CHALAN AND TV AND CIN CHECKINGThu Aug 28 13:51:19 IST 2025
+ END OF :::BIFERCATING CHALAN AND TV AND CIN CHECKINGThu Aug 28 15:16:48 IST 2025
 END OF FORMAT VALIDATION
 Field validation is successfull now starting hash validation
-BEFORE HASHING CALLED::::::Thu Aug 28 13:51:19 IST 2025
-250828135120
-START # 28-08-2025 13:51:20.182
+BEFORE HASHING CALLED::::::Thu Aug 28 15:16:49 IST 2025
+250828151649
+START # 28-08-2025 15:16:49.590
  Original file object created and file exist
-tempFileName String cretaed ::  C:/ITR_Utility/ITR.Utility.Processor/ITRUtil/Output/26Q_temp.fvu
+tempFileName String cretaed ::  C:/ITR_Utility/Java-Utility/ITR.Utility.Processor/ITRUtil/Output/26Q_temp.fvu
  brtTemp object created for temp file
 String line created 
 isAppendForNextLine (Inside if condition ) :: 1
- After appending line 1^8^FVU 9.2^00000000000000000000^SAM 1.0^00000000000000000000^25082813512014173073
+ After appending line 1^8^FVU 9.2^00000000000000000000^SAM 1.0^00000000000000000000^25082815164914163154
 f.close()
 f = null
 brTemp.flush()
 brTemp.close()
 brTemp = null;
-END # 28-08-2025 13:51:20.186
+END # 28-08-2025 15:16:49.591
 Original file is deleted
 Temp file renamed
 In processCINFile method
 the challan count is 3
 the cinFileLevelHC no. is00000000000000362345
-AFTER HASHING CALLED::::Thu Aug 28 13:51:20 IST 2025
+AFTER HASHING CALLED::::Thu Aug 28 15:16:49 IST 2025
 Return Hash Code = 0
 searchbarcode called
-Barcodeval :25082813512014173073
+Barcodeval :25082815164914163154
 Barcode is present
 Hash Validation is sucessfull now started generating file
 Inside generateStatisticFile Method 
 FileGenerator.java ParseString() method is called 
 FileGenerator.java ParseString() method is returning 
 FileGenerator.java createStatisticFileString() method is called
- Entering writeStatisticFile() Method Thu Aug 28 13:51:20 IST 2025
- Exiting writeStatisticFile() Method Thu Aug 28 13:51:20 IST 2025
+ Entering writeStatisticFile() Method Thu Aug 28 15:16:49 IST 2025
+ Exiting writeStatisticFile() Method Thu Aug 28 15:16:49 IST 2025
 FileGenerator.java createStatisticFileString() method is returning
 Statistics file is created
  length : 72
  length : 72
- BARCODE :- 25082813512014173073
+ BARCODE :- 25082815164914163154
 Inside generateForm27A
- Entering writePdfFile() Method Thu Aug 28 13:51:20 IST 2025
- Exiting writePdfFile() Method Thu Aug 28 13:51:20 IST 2025
+ Entering writePdfFile() Method Thu Aug 28 15:16:49 IST 2025
+ Exiting writePdfFile() Method Thu Aug 28 15:16:49 IST 2025
 pdf generatedtrue
-END TIME : Thu Aug 28 13:51:20 IST 2025
+END TIME : Thu Aug 28 15:16:50 IST 2025
 Eobj_FormValidator.obj_StringBuffer.getPanCounter()0
 reportGeneratedfalse
 paperRetWarFile : false
 calling method
---DESKTOP OBJECT: java.awt.Desktop@682a0925
---error file path: C:\ITR_Utility\ITR.Utility.Processor\ITRUtil\Output
---dir to open object: C:\ITR_Utility\ITR.Utility.Processor\ITRUtil\Output
-the text error file path is C:\ITR_Utility\ITR.Utility.Processor\ITRUtil\Output
+--DESKTOP OBJECT: java.awt.Desktop@2b3c832f
+--error file path: C:\ITR_Utility\Java-Utility\ITR.Utility.Processor\ITRUtil\Output
+--dir to open object: C:\ITR_Utility\Java-Utility\ITR.Utility.Processor\ITRUtil\Output
+the text error file path is C:\ITR_Utility\Java-Utility\ITR.Utility.Processor\ITRUtil\Output
