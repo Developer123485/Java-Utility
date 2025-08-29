@@ -8,6 +8,12 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="ITRUtil\**" />
+    <EmbeddedResource Remove="ITRUtil\**" />
+    <None Remove="ITRUtil\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="InputSimulator" Version="1.0.4" />
     <PackageReference Include="Microsoft.Extensions.Configuration" Version="9.0.8" />
     <PackageReference Include="Microsoft.Extensions.Configuration.FileExtensions" Version="9.0.8" />
@@ -18,11 +24,6 @@
     <None Update="appsettings.json">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="ITRUtil\Input\" />
-    <Folder Include="ITRUtil\Processing\" />
   </ItemGroup>
 
 </Project>
