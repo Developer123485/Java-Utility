@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nkgup\\Desktop\\RiyaProjects\\Java-Utility\\ITR.Utility.Processor\\ITR.Utility.Processor.csproj": {}
+    "C:\\ITR_Utility\\Java-Utility\\ITR.Utility.Processor\\ITR.Utility.Processor.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nkgup\\Desktop\\RiyaProjects\\Java-Utility\\ITR.Utility.Processor\\ITR.Utility.Processor.csproj": {
+    "C:\\ITR_Utility\\Java-Utility\\ITR.Utility.Processor\\ITR.Utility.Processor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nkgup\\Desktop\\RiyaProjects\\Java-Utility\\ITR.Utility.Processor\\ITR.Utility.Processor.csproj",
+        "projectUniqueName": "C:\\ITR_Utility\\Java-Utility\\ITR.Utility.Processor\\ITR.Utility.Processor.csproj",
         "projectName": "ITR.Utility.Processor",
-        "projectPath": "C:\\Users\\nkgup\\Desktop\\RiyaProjects\\Java-Utility\\ITR.Utility.Processor\\ITR.Utility.Processor.csproj",
+        "projectPath": "C:\\ITR_Utility\\Java-Utility\\ITR.Utility.Processor\\ITR.Utility.Processor.csproj",
         "packagesPath": "C:\\Users\\nkgup\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nkgup\\Desktop\\RiyaProjects\\Java-Utility\\ITR.Utility.Processor\\obj\\",
+        "outputPath": "C:\\ITR_Utility\\Java-Utility\\ITR.Utility.Processor\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -22,15 +22,15 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net8.0"
+          "net7.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
+          "net7.0": {
+            "targetAlias": "net7.0",
             "projectReferences": {}
           }
         },
@@ -47,8 +47,8 @@
         "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
+        "net7.0": {
+          "targetAlias": "net7.0",
           "dependencies": {
             "InputSimulator": {
               "target": "Package",
@@ -83,7 +83,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     }

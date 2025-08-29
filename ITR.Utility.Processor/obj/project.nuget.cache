@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "/oFYVnHTFy0=",
+  "dgSpecHash": "uyEDTZ+KYO4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\nkgup\\Desktop\\RiyaProjects\\Java-Utility\\ITR.Utility.Processor\\ITR.Utility.Processor.csproj",
+  "projectFilePath": "C:\\ITR_Utility\\Java-Utility\\ITR.Utility.Processor\\ITR.Utility.Processor.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nkgup\\.nuget\\packages\\inputsimulator\\1.0.4\\inputsimulator.1.0.4.nupkg.sha512",
+    "C:\\Users\\nkgup\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\9.0.8\\microsoft.bcl.asyncinterfaces.9.0.8.nupkg.sha512",
     "C:\\Users\\nkgup\\.nuget\\packages\\microsoft.extensions.configuration\\9.0.8\\microsoft.extensions.configuration.9.0.8.nupkg.sha512",
     "C:\\Users\\nkgup\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\9.0.8\\microsoft.extensions.configuration.abstractions.9.0.8.nupkg.sha512",
     "C:\\Users\\nkgup\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\9.0.8\\microsoft.extensions.configuration.fileextensions.9.0.8.nupkg.sha512",
@@ -13,21 +14,25 @@
     "C:\\Users\\nkgup\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\9.0.8\\microsoft.extensions.fileproviders.physical.9.0.8.nupkg.sha512",
     "C:\\Users\\nkgup\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\9.0.8\\microsoft.extensions.filesystemglobbing.9.0.8.nupkg.sha512",
     "C:\\Users\\nkgup\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.8\\microsoft.extensions.primitives.9.0.8.nupkg.sha512",
+    "C:\\Users\\nkgup\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
     "C:\\Users\\nkgup\\.nuget\\packages\\system.io.pipelines\\9.0.8\\system.io.pipelines.9.0.8.nupkg.sha512",
+    "C:\\Users\\nkgup\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\nkgup\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "C:\\Users\\nkgup\\.nuget\\packages\\system.text.encodings.web\\9.0.8\\system.text.encodings.web.9.0.8.nupkg.sha512",
-    "C:\\Users\\nkgup\\.nuget\\packages\\system.text.json\\9.0.8\\system.text.json.9.0.8.nupkg.sha512"
+    "C:\\Users\\nkgup\\.nuget\\packages\\system.text.json\\9.0.8\\system.text.json.9.0.8.nupkg.sha512",
+    "C:\\Users\\nkgup\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
   ],
   "logs": [
     {
       "code": "NU1701",
       "level": "Warning",
-      "message": "Package 'InputSimulator 1.0.4' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0'. This package may not be fully compatible with your project.",
-      "projectPath": "C:\\Users\\nkgup\\Desktop\\RiyaProjects\\Java-Utility\\ITR.Utility.Processor\\ITR.Utility.Processor.csproj",
+      "message": "Package 'InputSimulator 1.0.4' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net7.0'. This package may not be fully compatible with your project.",
+      "projectPath": "C:\\ITR_Utility\\Java-Utility\\ITR.Utility.Processor\\ITR.Utility.Processor.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\Users\\nkgup\\Desktop\\RiyaProjects\\Java-Utility\\ITR.Utility.Processor\\ITR.Utility.Processor.csproj",
+      "filePath": "C:\\ITR_Utility\\Java-Utility\\ITR.Utility.Processor\\ITR.Utility.Processor.csproj",
       "libraryId": "InputSimulator",
       "targetGraphs": [
-        "net8.0"
+        "net7.0"
       ]
     }
   ]

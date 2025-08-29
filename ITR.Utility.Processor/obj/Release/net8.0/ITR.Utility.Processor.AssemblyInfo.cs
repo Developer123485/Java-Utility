@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ITR.Utility.Processor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+59edd93a7367baf94d8b68a389da22b794ddb3b4")]
 [assembly: System.Reflection.AssemblyProductAttribute("ITR.Utility.Processor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ITR.Utility.Processor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
