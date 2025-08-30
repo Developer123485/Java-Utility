@@ -88,7 +88,7 @@ public class Worker
             Console.WriteLine("Starting Java Utility...");
 
             var process = new Process();
-            process.StartInfo.FileName = _javaPath;
+            process.StartInfo.FileName = "java";
             process.StartInfo.Arguments = $"-jar \"{_jarPath}\" \"{filePath}\" \"{outputPath}\"";
             process.StartInfo.WorkingDirectory = _utilityDir;
             process.StartInfo.UseShellExecute = false;
