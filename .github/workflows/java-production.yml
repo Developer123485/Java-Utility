@@ -1,0 +1,47 @@
+name: java production pipeline
+
+on:
+  push:
+    branches:
+      - main
+
+concurrency:
+  group: dev-${{ github.ref }}-job1
+  cancel-in-progress: true
+
+jobs:
+  build_and_deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Set up .NET 7
+      uses: actions/setup-dotnet@v2
+      with:
+        dotnet-version: '7.0.x'
+
+    - name: Restore dependencies
+      run: dotnet restore
+
+    - name: Build
+      run: dotnet publish --configuration Release --output ./bin/Release/net7.0/publish
+
+    - name: Run tests
+      run: dotnet test --no-restore --verbosity normal
+
+    - name: Set up SSH
+      uses: webfactory/ssh-agent@v0.5.3
+      with:
+        ssh-private-key: ${{ secrets.SSH_PRIVATE_KEY }}
+
+    - name: Create SSH key file
+      run: echo "${{ secrets.SSH_PRIVATE_KEY }}" > ~/.ssh/id_rsa && chmod 600 ~/.ssh/id_rsa
+
+    - name: Deploy backend
+      run: |
+        ssh -i ~/.ssh/id_rsa  -o StrictHostKeyChecking=no  root@139.84.144.29 << 'EOF'
+          cd /root/scirpts
+          ./java-deploy.sh 
+        EOF
