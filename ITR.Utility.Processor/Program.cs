@@ -12,6 +12,7 @@ class Program
     private static int retryCount = 3;
     private static Worker _worker;
 
+    
     static async Task Main(string[] args)
     {
         IConfiguration config = new ConfigurationBuilder()
