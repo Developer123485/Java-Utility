@@ -41,7 +41,7 @@ jobs:
 
     - name: Deploy backend
       run: |
-        sshpass -p '2A]ppMNWbRV-gBJ_' ssh -i -o StrictHostKeyChecking=no  root@139.84.144.29 << 'EOF'
+        sshpass -p '2A]ppMNWbRV-gBJ_' ssh -o StrictHostKeyChecking=no  root@139.84.144.29 << 'EOF'
           cd /root/scirpts
           ./java-deploy.sh 
         EOF
